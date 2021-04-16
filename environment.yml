@@ -1,0 +1,9 @@
+name: condademo
+dependencies:
+- python=3
+- bokeh
+- plotly
+- numpy
+- pandas
+- matplotlib
+- seaborn
